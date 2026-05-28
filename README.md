@@ -6,8 +6,7 @@ A financial institution needs to host a secure internal application that handles
 Harnessing EC2, VPC & MobaXterm for Cutting-Edge Entity Hosting
 
 👉 Live Website URL:
-http://51.20.51.104/landing-page/#home
-
+http://13.50.190.140/landing-page/
 ## Project Description
 This project demonstrates hosting a static website on AWS EC2 instance using VPC networking and secure remote access through MobaXterm.
 
@@ -29,4 +28,4 @@ The website is deployed on an EC2 instance and is accessible publicly using a st
 
 ## How to Access
 Open the browser and visit:
-http://51.20.51.104/landing-page/#home
+http://13.50.190.140/landing-page/
